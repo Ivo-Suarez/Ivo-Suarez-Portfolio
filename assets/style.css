@@ -1,0 +1,30 @@
+body {
+    background: white;
+}
+
+.title {
+    background: lightgray;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 300%;
+    padding: 20px;     
+}
+
+.links {
+    background: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 200%;
+   /* padding: 20px; */
+}
+
+.table {
+    align: center;
+}
+
+.Headings {
+    background-color: goldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font
+}
